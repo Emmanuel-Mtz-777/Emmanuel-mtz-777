@@ -20,8 +20,9 @@ I enjoy solving problems through programming and creating solutions that balance
 
 🌐 Visit my personal website: https://leviek.dev
 
-
 </div>
+</br>
+
 
 ## 🛠️ My Skills
 
@@ -99,6 +100,8 @@ I enjoy solving problems through programming and creating solutions that balance
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=GIMP&logoColor=white"/>
 </div>
 
+</br>
+</br>
 
 ## 📈 Github Statistics 
 
