@@ -100,9 +100,8 @@ I enjoy solving problems through programming and creating solutions that balance
 </div>
 
 
-<div align="center">
-   <h2 align="center"> Github Statistics 📈 </h2>
-</div>
+## 📈 Github Statistics 
+
 
 <div align="center">
   <table>
