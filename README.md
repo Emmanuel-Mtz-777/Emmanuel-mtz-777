@@ -113,7 +113,7 @@ I enjoy solving problems through programming and creating solutions that balance
         <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Mtz-777&show_icons=7&theme=midnight-purple" />
       </td>
       <td style="border:none">
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Mtz-777&theme=midnight-purple&line_height=40&hide=css"/>
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Mtz-777&theme=midnight-purple&line_height=40&hide=css,jupyter%20notebook"/>
       </td>
     </tr>
   </table>
